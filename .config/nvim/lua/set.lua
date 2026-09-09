@@ -1,0 +1,21 @@
+O.number = true         -- Enable line numbers
+O.relativenumber = true -- Enable relative line numbers
+O.tabstop = 4           -- Number of spaces a tab represents
+O.shiftwidth = 4        -- Number of spaces for each indentation
+O.expandtab = true      -- Convert tabs to spaces
+O.smartindent = true    -- Automatically indent new lines
+O.wrap = false          -- Disable line wrapping
+O.cursorline = true     -- Highlight the current line
+O.termguicolors = true  -- Enable 24-bit RgB colors
+O.ignorecase = true     -- Ignore case when search
+O.hlsearch = false
+O.incsearch = true
+O.confirm = true -- Confirm save settings
+O.clipboard = "unnamedplus"
+O.splitright = true
+O.splitbelow = true
+O.colorcolumn = "80"
+O.signcolumn = "yes" -- set sign column
+O.winborder = "rounded"
+
+G.mapleader = ' ' -- Space as the leader key
