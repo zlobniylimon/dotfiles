@@ -4,6 +4,5 @@ end
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-# Created by `pipx` on 2025-02-19 20:31:25
 set PATH $PATH /Users/zlimon/.local/bin
 set -x EDITOR "nvim"

@@ -23,4 +23,4 @@ autocmd('LspAttach', {
         vim.keymap.set("n", "<leader>lf", vim.lsp.buf.format, opts)
     end
 })
-vim.lsp.enable({ "lua_ls", "gopls", "ruff" })
+vim.lsp.enable({ "lua_ls", "gopls", "ruff" , "basedpyright" })
